@@ -1,8 +1,6 @@
 ## Effective JavaScript
 
-**只是看看的话,对你的帮助没有多大,你需要的是一条一条的实践**
-
-**理论上,实践过下面的68个项目之后,你的JS能力应该有一个质的飞跃**
+**只是看看的话,对你的帮助没有多大,你需要的是一条一条的实践;理论上,实践过下面的68个项目之后,你的JS能力应该有一个质的飞跃**
 
 + [x] Chapter 1 **Accustoming Yourself to JavaScript**
     - [x] [Item 1: **知道你正在使用的JavaScript模式** (Know Which JavaScript You Are Using)](chapter-1/know-which-javascript-you-are-using.md) 
