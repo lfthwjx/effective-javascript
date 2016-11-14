@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="demo.js"></script>
+</head>
+<body>
+<script>
+    // 使用ES6的 Promise
+    let p = new Promise((resolve, reject) => {
+                setTimeout(() => {
+                    resolve('hello')
+                }, 2000);
+            })
+    p.then((res) => {
+        console.log(res);
+    })
+
+</script>
+</body>
+</html>
