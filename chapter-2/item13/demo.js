@@ -46,7 +46,7 @@ function generateFunc2(arr) {
     var n = arr.length;
     for(var i = 0; i < n; i++) {
         (function() {
-            var j = i;
+            var j = i; // 注意这里
             result[i] = function() {
                 return arr[j];
             }
