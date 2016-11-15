@@ -5,7 +5,7 @@
 + [x] Chapter 1 **Accustoming Yourself to JavaScript**
     - [x] [Item 1: **知道你正在使用的JavaScript模式** (Know Which JavaScript You Are Using)](chapter-1/know-which-javascript-you-are-using.md) 
     - [x] [Item 2: **注意JavaScript的浮点数** (Understand JavaScript’s Floating-Point Numbers)](chapter-1/understand-javascript’s-floating-point-numbers.md) 
-    - [x] [Item 3: **当心隐形的强制转换** (Beware of Implicit Coercions)](chapter-1/beware-of-implicit-coercions.md) 
+    - [x] [Item 3: **当心隐式的强制转换** (Beware of Implicit Coercions)](chapter-1/beware-of-implicit-coercions.md) 
     - [x] [Item 4: **使用原始类型替代对象包裹** (Prefer Primitives to Object Wrappers)](chapter-1/prefer-primitives-to-object-wrappers.md) 
     - [x] [Item 5: **混合类型避免使用`==`比较是否相等** (Avoid using == with Mixed Types)](chapter-1/avoid-using-not-strict-equality-with-mixed-types.md) 
     - [x] [Item 6: **学习分号的插入机制** (Learn the Limits of Semicolon Insertion)](chapter-1/learn-the-limits-of-semicolon-insertion.md) 
