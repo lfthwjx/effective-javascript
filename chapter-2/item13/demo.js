@@ -46,15 +46,17 @@ function generateFunc2(arr) {
     var n = arr.length;
     for(var i = 0; i < n; i++) {
         (function() {
+            var j = i;
             result[i] = function() {
-                return arr[i];
+                return arr[j];
             }
         })()
     }
     return result;
 }
 // @3 产生新的函数
-var g3 = generateFunc1(testArr);
+//var g3 = generateFunc1(testArr);
+var g3 = generateFunc2(testArr);
 console.log(g3[0]()); // 1
 console.log(g3[1]()); // 2
 console.log(g3[2]()); // 3
