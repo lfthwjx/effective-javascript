@@ -2,6 +2,9 @@
 
 **只是看看的话,对你的帮助没有多大,你需要的是一条一条的实践;理论上,实践过下面的68个项目之后,你的JS能力应该有一个质的飞跃**
 
+**:grin:如果你觉得下面有些章节的代码示例不够好,或者有问题;欢迎发`pull request`或者提`issues`,我会把它添加进来,让更多的人看到。
+  第七章节有几章节没有代码示例,也欢迎大家补充。:grin:**
+
 + [x] Chapter 1 **Accustoming Yourself to JavaScript**
     - [x] [Item 1: **知道你正在使用的JavaScript模式** (Know Which JavaScript You Are Using)](chapter-1/know-which-javascript-you-are-using.md) 
     - [x] [Item 2: **注意JavaScript的浮点数** (Understand JavaScript’s Floating-Point Numbers)](chapter-1/understand-javascript’s-floating-point-numbers.md) 
