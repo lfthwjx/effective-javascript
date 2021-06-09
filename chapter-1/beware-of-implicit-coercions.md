@@ -1,4 +1,4 @@
-### 当心隐形的强制转换
+### 当心隐式的强制转换
 
 ```javascript
 console.log(3 + true); // 4

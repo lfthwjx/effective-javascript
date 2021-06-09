@@ -2,10 +2,13 @@
 
 **只是看看的话,对你的帮助没有多大,你需要的是一条一条的实践;理论上,实践过下面的68个项目之后,你的JS能力应该有一个质的飞跃**
 
+**:grin:如果你觉得下面有些章节的代码示例不够好,或者有问题;欢迎发`pull request`或者提`issues`,我会把它添加进来,让更多的人看到。
+  第七章节有几章节没有代码示例,也欢迎大家补充。:grin:**
+
 + [x] Chapter 1 **Accustoming Yourself to JavaScript**
     - [x] [Item 1: **知道你正在使用的JavaScript模式** (Know Which JavaScript You Are Using)](chapter-1/know-which-javascript-you-are-using.md) 
     - [x] [Item 2: **注意JavaScript的浮点数** (Understand JavaScript’s Floating-Point Numbers)](chapter-1/understand-javascript’s-floating-point-numbers.md) 
-    - [x] [Item 3: **当心隐形的强制转换** (Beware of Implicit Coercions)](chapter-1/beware-of-implicit-coercions.md) 
+    - [x] [Item 3: **当心隐式的强制转换** (Beware of Implicit Coercions)](chapter-1/beware-of-implicit-coercions.md) 
     - [x] [Item 4: **使用原始类型替代对象包裹** (Prefer Primitives to Object Wrappers)](chapter-1/prefer-primitives-to-object-wrappers.md) 
     - [x] [Item 5: **混合类型避免使用`==`比较是否相等** (Avoid using == with Mixed Types)](chapter-1/avoid-using-not-strict-equality-with-mixed-types.md) 
     - [x] [Item 6: **学习分号的插入机制** (Learn the Limits of Semicolon Insertion)](chapter-1/learn-the-limits-of-semicolon-insertion.md) 
